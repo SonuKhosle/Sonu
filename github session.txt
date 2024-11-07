@@ -1,8 +1,8 @@
-//Git commands
+//git commands
 
-1. git clone
+1. git clone --> Used to make the local copy of git repository 
 
-2. git add --> 
+2. git add --> adds the changes in the working directory to staging
 
 3. git add . -->
 
