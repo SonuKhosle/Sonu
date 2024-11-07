@@ -1,12 +1,19 @@
 //git commands
 
-1. git clone --> Used to make the local copy of git repository 
+1. git init --> Initializes git in your folder
 
-2. git add --> adds the changes in the working directory to staging
+2. git add README.md --> This command adds readme file in our repo.
+                      Readme file gives the overview of our repo.
 
-3. git add . -->
+3. git clone --> Used to make the local copy of git repository 
 
-4. git commit -->
+4. git add --> adds the changes in the working directory to staging
+               it adds only one file to staging
 
-5. git push
-git push origin main -->
+5. git add . --> It works same like git add command
+                but this command adds multiple or all files from working directory to staging
+
+6. git commit --> It stores the changes in our file with the messages
+
+7. git push --> pushes our cahnes to git
+git push origin main --> pushes the changes in our git repo main branch
