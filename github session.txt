@@ -15,5 +15,5 @@
 
 6. git commit --> It stores the changes in our file with the messages
 
-7. git push --> pushes our cahnes to git
+7. git push --> pushes our cahanges to git
 git push origin main --> pushes the changes in our git repo main branch
