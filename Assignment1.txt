@@ -1,1 +1,19 @@
 Difference between white box testing, black box testing, gray box testing
+
+White Box Testing
+1. White box teting is done by developers
+2. It is also known as unit testing
+3. Coding knowledge is required for conducting white box testing
+4. Only positive scenarios checks
+
+Black Box Testing
+1. It is done by tester
+2. This is also called as system and functional testing
+3. In this testing coding knowledge is not required
+4. Both positive and negative scenarios checks
+5. Black box testing is performed with respect to user requirements.
+
+Gray Box Testing
+1. It is a combination of white box testing and black box testing.
+2. coding knowledge is required
+3. Both positive and negative scenarios checks
